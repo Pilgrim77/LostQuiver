@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "lostquiver:quiver_with_arrows"
+	}
+	
+}
